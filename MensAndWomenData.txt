@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1",
+    "isAccessory": false,
+    "preview": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1376577/2016/9/15/11473928353466-Roadster-Men-Black-Regular-Fit-Checked-Casual-Shirt-4501473928353310-1.jpg",
+    "price": "844",
+    "brand": "Roadster",
+    "name": "Men Black & Grey Checked Casual Shirt",
+    "photos": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1376577/2016/9/15/11473928353466-Roadster-Men-Black-Regular-Fit-Checked-Casual-Shirt-4501473928353310-1.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1376577/2016/9/15/11473928353440-Roadster-Men-Black-Regular-Fit-Checked-Casual-Shirt-4501473928353310-2.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1376577/2016/9/15/11473928353416-Roadster-Men-Black-Regular-Fit-Checked-Casual-Shirt-4501473928353310-3.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1376577/2016/9/15/11473928353388-Roadster-Men-Black-Regular-Fit-Checked-Casual-Shirt-4501473928353310-4.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1376577/2016/9/15/11473928353356-Roadster-Men-Black-Regular-Fit-Checked-Casual-Shirt-4501473928353310-5.jpg"
+    ],
+    "description": "Black and grey checked casual shirt, has a spread collar, a full button placket, long sleeves with roll-up tabs, a patch pocket, a curved hem"
+  },
+  {
+    "id": "2",
+    "isAccessory": false,
+    "preview": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/7189947/2018/8/30/b0a17130-00b2-47dd-9acf-75fcdf7333111535614137835-Bene-Kleed-Men-Off-White--Blue-Slim-Fit-Printed-Casual-Shirt-3181535614137565-1.jpg",
+    "price": "692",
+    "brand": "Bene Kleed",
+    "name": "Men Off-White & Blue Slim Fit Printed Casual Shirt",
+    "photos": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/7189947/2018/8/30/b0a17130-00b2-47dd-9acf-75fcdf7333111535614137835-Bene-Kleed-Men-Off-White--Blue-Slim-Fit-Printed-Casual-Shirt-3181535614137565-1.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/7189947/2018/8/30/154d65ba-6a66-4b09-9077-621c5cfca09b1535614137811-Bene-Kleed-Men-Off-White--Blue-Slim-Fit-Printed-Casual-Shirt-3181535614137565-2.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/7189947/2018/8/30/9aa32320-7ff7-467a-a6c3-9b30fa14985b1535614137764-Bene-Kleed-Men-Off-White--Blue-Slim-Fit-Printed-Casual-Shirt-3181535614137565-4.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/7189947/2018/8/30/7d6de012-d553-418d-99b6-eb28c945fb7f1535614137786-Bene-Kleed-Men-Off-White--Blue-Slim-Fit-Printed-Casual-Shirt-3181535614137565-3.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/7189947/2018/8/30/aeb3002c-0114-4a6f-9509-d36adae2234d1535614137725-Bene-Kleed-Men-Off-White--Blue-Slim-Fit-Printed-Casual-Shirt-3181535614137565-5.jpg"
+    ],
+    "description": "Off-White and blue printed casual shirt, has a spread collar, long sleeves, curved hem,"
+  },
+  {
+    "id": "3",
+    "isAccessory": false,
+    "preview": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12185620/2020/10/9/0f97cd21-2989-40a1-9068-1ad7532b03b71602246632433BibaWomenOff-WhiteBrownPrintedKurtawithPalazzosDupattaKurtaS1.jpg",
+    "price": "2279",
+    "brand": "Biba",
+    "name": "Women Rust Red & Cream-Coloured Yoke Design Kurta with Palazzos & Dupatta",
+    "photos": [
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12185620/2020/10/9/0f97cd21-2989-40a1-9068-1ad7532b03b71602246632433BibaWomenOff-WhiteBrownPrintedKurtawithPalazzosDupattaKurtaS1.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12185620/2020/10/9/049c7285-34f0-4b47-93fe-39a505592e0d1602246632492BibaWomenOff-WhiteBrownPrintedKurtawithPalazzosDupattaKurtaS2.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12185620/2020/10/9/ea24772e-52ce-4d60-8756-c0324af205061602246632624BibaWomenOff-WhiteBrownPrintedKurtawithPalazzosDupattaKurtaS4.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12185620/2020/10/9/5c339e6f-0e42-4b46-84ba-ef9797b5cdec1602246632693BibaWomenOff-WhiteBrownPrintedKurtawithPalazzosDupattaKurtaS5.jpg",
+      "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12185620/2020/10/9/3abe6494-79a8-4935-aad8-d58acfb759eb1602246632750BibaWomenOff-WhiteBrownPrintedKurtawithPalazzosDupattaKurtaS6.jpg"
+    ],
+    "description": "Rust red, cream-colored and blue yoke design kurta with palazzos and dupatta"
+  },
+  {
+    "id": "4",
+    "isAccessory": false,
+    "preview": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10453214/2019/11/28/ea4f2684-57d3-422d-bb6d-0cf8593deb151574923430214-Biba-Women-Kurta-Sets-4581574923427745-1.jpg",
+    "price": "4797",
+    "brand": "Biba",
+    "name": "Women Rust Red & Green Yoke Design Kurta with Palazzos & Dupatta",
+    "photos": ["https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10453214/2019/11/28/ea4f2684-57d3-422d-bb6d-0cf8593deb151574923430214-Biba-Women-Kurta-Sets-4581574923427745-1.jpg",
+"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10453214/2019/11/28/600f1df0-b41c-4dde-94a0-c1beebf67b7f1574923429946-Biba-Women-Kurta-Sets-4581574923427745-5.jpg",
+"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10453214/2019/11/28/b73cecd3-9e38-4c2f-94ff-08a2a07e32291574923429823-Biba-Women-Kurta-Sets-4581574923427745-6.jpg",
+"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10453214/2019/11/28/0483ddee-10c4-4d12-a1d8-22e28672abb81574923429737-Biba-Women-Kurta-Sets-4581574923427745-7.jpg",
+"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10453214/2019/11/28/527b5f2a-cc8c-483d-82b0-0acf906538e91574923430101-Biba-Women-Kurta-Sets-4581574923427745-3.jpg"],
+    "description": "Rust red and green yoke design kurta with palazzosRust red yoke design A-line calf length kurta, has a round neck, three-quarter sleeves, high-low hemGreen and pink printed palazzos, has drawstring closure Rust red printed dupatta, has taping border"
+  },
+   {
+    "id": "5",
+    "isAccessory": false,
+    "preview": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/4425873/2018/4/23/11524466615537-HERENOW-Men-Blue-Regular-Fit-Printed-Casual-Shirt-721524466615371-1.jpg",
+    "price": "1074",
+    "brand": ":HERE&NOW",
+    "name": "Men Blue Regular Fit Printed Casual Shirt",
+    "photos": ["https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/4425873/2018/4/23/11524466615537-HERENOW-Men-Blue-Regular-Fit-Printed-Casual-Shirt-721524466615371-1.jpg",
+"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/4425873/2018/4/23/11524466615511-HERENOW-Men-Blue-Regular-Fit-Printed-Casual-Shirt-721524466615371-2.jpg",
+"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/4425873/2018/4/23/11524466615489-HERENOW-Men-Blue-Regular-Fit-Printed-Casual-Shirt-721524466615371-3.jpg",
+"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/4425873/2018/4/23/11524466615463-HERENOW-Men-Blue-Regular-Fit-Printed-Casual-Shirt-721524466615371-4.jpg"],
+    "description": "Blue printed casual shirt, has a spread collar, button placket, 1 pocket, long sleeves, curved hem"
+  },
+   {
+    "id": "6",
+    "isAccessory": false,
+    "preview": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10944602/2020/3/5/941091b5-76eb-4267-ac65-902d1e04aac51583385686650-Roadster-Men-Teal-Blue--Black-Regular-Fit-Printed-Casual-Shi-1.jpg",
+    "price": "699",
+    "brand": "Roadster",
+    "name": "Men Teal Blue & Black Regular Fit Printed Casual Shirt",
+    "photos": ["https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10944602/2020/3/5/941091b5-76eb-4267-ac65-902d1e04aac51583385686650-Roadster-Men-Teal-Blue--Black-Regular-Fit-Printed-Casual-Shi-1.jpg",
+"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10944602/2020/3/5/da4c1a83-987b-4afa-baad-f72039dbdedb1583385686526-Roadster-Men-Teal-Blue--Black-Regular-Fit-Printed-Casual-Shi-4.jpg",
+"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10944602/2020/3/5/c8e037db-773e-4906-90a0-213f86daf6b71583385686480-Roadster-Men-Teal-Blue--Black-Regular-Fit-Printed-Casual-Shi-5.jpg",
+"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10944602/2020/3/5/f79b7681-5f7c-4424-890d-0550fdc061e61583385686439-Roadster-Men-Teal-Blue--Black-Regular-Fit-Printed-Casual-Shi-6.jpg",
+"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10944602/2020/3/5/a197bdd9-b2e6-47af-98e9-457f43e3e6ba1583385686568-Roadster-Men-Teal-Blue--Black-Regular-Fit-Printed-Casual-Shi-3.jpg"
+],
+    "description": "Teal Blue and Black printed casual shirt, has a spread collar, long sleeves, button placket, and curved hem"
+  },
+  {
+    "id": "7",
+    "isAccessory": false,
+    "preview": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1711627/2018/2/9/11518178406850-Roadster-Men-Black--Grey-Checked-Casual-Shirt-1801518178406626-1.jpg",
+    "price": "799",
+    "brand": "Roadster",
+    "name": "Time Travlr Men Black & Grey Checked Casual Shirt",
+    "photos": ["https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1711627/2018/2/9/11518178406850-Roadster-Men-Black--Grey-Checked-Casual-Shirt-1801518178406626-1.jpg",
+"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1711627/2018/2/9/11518178406818-Roadster-Men-Black--Grey-Checked-Casual-Shirt-1801518178406626-2.jpg",
+"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1711627/2018/2/9/11518178406788-Roadster-Men-Black--Grey-Checked-Casual-Shirt-1801518178406626-3.jpg",
+"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1711627/2018/2/9/11518178406758-Roadster-Men-Black--Grey-Checked-Casual-Shirt-1801518178406626-4.jpg",
+"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/1711627/2018/2/9/11518178406738-Roadster-Men-Black--Grey-Checked-Casual-Shirt-1801518178406626-5.jpg"],
+    "description": "Black and grey checked casual shirt, has a spread collar, button placket, long sleeves with roll-up tabs, a chest pocket, curved hem"
+  },
+  {
+    "id": "7",
+    "isAccessory": false,
+    "preview": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10207461/2019/11/18/a08e01c3-cfcc-4802-8d45-d128187b70be1574078516717-W-Women-Dresses-8581574078515263-1.jpg",
+    "price": "3849",
+    "brand": "W",
+    "name": "Women Maroon & Golden Embroidered A-Line Dress",
+    "photos": ["https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10207461/2019/11/18/a08e01c3-cfcc-4802-8d45-d128187b70be1574078516717-W-Women-Dresses-8581574078515263-1.jpg",
+"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10207461/2019/11/18/ffbb8333-2af3-4475-aa99-1e203b8831af1574078516466-W-Women-Dresses-8581574078515263-4.jpg",
+"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10207461/2019/11/18/51638fcf-2396-43ee-a1ab-9cda703ba4821574078516348-W-Women-Dresses-8581574078515263-6.jpg",
+"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10207461/2019/11/18/d7bba07e-ad7d-4867-b9ab-051b2964b3cb1574078516638-W-Women-Dresses-8581574078515263-2.jpg",
+"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10207461/2019/11/18/dbe848ef-67ab-4f1c-af00-8034414269a91574078516551-W-Women-Dresses-8581574078515263-3.jpg"],
+    "description": "Maroon and golden embroidered woven A-line dress, has a round neck, three-quarter sleeves, an attached lining, flared hem"
+  },
+  {
+    "id": "7",
+    "isAccessory": false,
+    "preview": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10988816/2019/12/10/3d607fd9-3f76-4720-97ac-298833314fa41575978064544-HERENOW-Men-Shirts-8641575978059827-1.jpg",
+    "price": "799",
+    "brand": "HERE&NOW",
+    "name": "Men Black & Red Slim Fit Colourblocked Casual Shirt",
+    "photos": ["https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10988816/2019/12/10/3d607fd9-3f76-4720-97ac-298833314fa41575978064544-HERENOW-Men-Shirts-8641575978059827-1.jpg",
+"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10988816/2019/12/10/2bca8944-4074-435c-84db-8999ece7ceb01575978064393-HERENOW-Men-Shirts-8641575978059827-4.jpg",
+"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10988816/2019/12/10/4695ec13-3e58-4fc2-8b57-2471bc862f431575978064338-HERENOW-Men-Shirts-8641575978059827-5.jpg",
+"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10988816/2019/12/10/37ebf4ee-f9bf-4f66-b168-08842df3af451575978064252-HERENOW-Men-Shirts-8641575978059827-6.jpg",
+"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10988816/2019/12/10/bb666a87-d156-4a1c-98e2-6920aa5f94591575978064500-HERENOW-Men-Shirts-8641575978059827-2.jpg"],
+    "description": "Black and Red colourblocked casual shirt, has a spread collar, long sleeves, concealed button placket, and curved hem"
+  }
+]
